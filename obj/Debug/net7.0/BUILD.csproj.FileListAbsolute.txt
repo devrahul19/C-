@@ -1,0 +1,14 @@
+E:\Chitkara\SIT313\BUILD\bin\Debug\net7.0\BUILD.exe
+E:\Chitkara\SIT313\BUILD\bin\Debug\net7.0\BUILD.deps.json
+E:\Chitkara\SIT313\BUILD\bin\Debug\net7.0\BUILD.runtimeconfig.json
+E:\Chitkara\SIT313\BUILD\bin\Debug\net7.0\BUILD.dll
+E:\Chitkara\SIT313\BUILD\bin\Debug\net7.0\BUILD.pdb
+E:\Chitkara\SIT313\BUILD\obj\Debug\net7.0\BUILD.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chitkara\SIT313\BUILD\obj\Debug\net7.0\BUILD.AssemblyInfoInputs.cache
+E:\Chitkara\SIT313\BUILD\obj\Debug\net7.0\BUILD.AssemblyInfo.cs
+E:\Chitkara\SIT313\BUILD\obj\Debug\net7.0\BUILD.csproj.CoreCompileInputs.cache
+E:\Chitkara\SIT313\BUILD\obj\Debug\net7.0\BUILD.dll
+E:\Chitkara\SIT313\BUILD\obj\Debug\net7.0\refint\BUILD.dll
+E:\Chitkara\SIT313\BUILD\obj\Debug\net7.0\BUILD.pdb
+E:\Chitkara\SIT313\BUILD\obj\Debug\net7.0\BUILD.genruntimeconfig.cache
+E:\Chitkara\SIT313\BUILD\obj\Debug\net7.0\ref\BUILD.dll
